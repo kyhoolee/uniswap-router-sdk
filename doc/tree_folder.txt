@@ -1,0 +1,35 @@
+../
+├── doc
+│   └── tree_folder.txt
+├── LICENSE
+├── package.json
+├── README.md
+├── src
+│   ├── approveAndCall.ts
+│   ├── constants.ts
+│   ├── entities
+│   │   ├── mixedRoute
+│   │   │   ├── route.test.ts
+│   │   │   ├── route.ts
+│   │   │   ├── trade.test.ts
+│   │   │   └── trade.ts
+│   │   ├── protocol.ts
+│   │   ├── route.test.ts
+│   │   ├── route.ts
+│   │   ├── trade.test.ts
+│   │   └── trade.ts
+│   ├── index.ts
+│   ├── multicallExtended.test.ts
+│   ├── multicallExtended.ts
+│   ├── paymentsExtended.test.ts
+│   ├── paymentsExtended.ts
+│   ├── swapRouter.test.ts
+│   ├── swapRouter.ts
+│   └── utils
+│       ├── encodeMixedRouteToPath.test.ts
+│       ├── encodeMixedRouteToPath.ts
+│       └── index.ts
+├── tsconfig.json
+└── yarn.lock
+
+6 directories, 27 files
